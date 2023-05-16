@@ -1,5 +1,4 @@
 package Dice;
-
 public enum Dice {
     D100(100),
     D10(10),
